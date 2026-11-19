@@ -2,7 +2,7 @@
 
 **Author:** [Rodrigo Garza García](https://www.linkedin.com/in/rodrigogarzamx/)  
 **Professional focus:** Public & International Affairs · Business Analysis · Data Analytics  
-**Portfolio page:** [walmart-sales](https://rogarzag.github.io/projects/walmart-sales/)  
+**Portfolio page:** [Professional Website — Projects](https://rogarzag.github.io/#projects)  
 **GitHub repository:** [walmart-sales-space-performance](https://github.com/rogarzag/walmart-sales-space-performance)  
 **Project focus:** Business Analysis · Google Sheets · Sales Performance · KPI Development · Space Efficiency  
 **Project context:** Data Analytics portfolio project  
