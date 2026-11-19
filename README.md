@@ -6,12 +6,12 @@
 **GitHub repository:** [walmart-sales-space-performance](https://github.com/rogarzag/walmart-sales-space-performance)  
 **Project focus:** Business Analysis · Google Sheets · Sales Performance · KPI Development · Space Efficiency  
 **Project context:** Data Analytics portfolio project  
-**Data / case coverage:** Walmart weekly sales data from 2012  
+**Data / period covered:** Walmart weekly sales data from 2012  
 **Professional links:** [GitHub profile](https://github.com/rogarzag) · [LinkedIn](https://www.linkedin.com/in/rodrigogarzamx/) · [Professional Website](https://rogarzag.github.io/)
 
 ## Project Overview
 
-Business analysis of Walmart sales, department share, and sales per square meter using Google Sheets to support inventory, space, and budget decisions.
+Analysis of Walmart sales by department using Google Sheets, with a focus on sales share and how sales compare with the space assigned to each department.
 
 ## Business question
 
@@ -19,7 +19,7 @@ Which departments generate the strongest sales performance relative to their spa
 
 ## Approach
 
-The analysis integrated Walmart sales, store, and department data and focused on a small set of decision-oriented KPIs:
+The analysis brought together the available Walmart sales, store, and department data. It focused on:
 
 - Sales by department
 - Department share of total sales
