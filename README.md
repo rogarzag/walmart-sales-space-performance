@@ -1,5 +1,16 @@
 # Walmart Sales & Space Performance
 
+**Author:** [Rodrigo Garza García](https://www.linkedin.com/in/rodrigogarzamx/)  
+**Professional focus:** Public & International Affairs · Business Analysis · Data Analytics  
+**Portfolio page:** [walmart-sales](https://rogarzag.github.io/projects/walmart-sales/)  
+**GitHub repository:** [walmart-sales-space-performance](https://github.com/rogarzag/walmart-sales-space-performance)  
+**Project focus:** Business Analysis · Google Sheets · Sales Performance · KPI Development · Space Efficiency  
+**Project context:** Data Analytics portfolio project  
+**Data / case coverage:** Walmart weekly sales data from 2012  
+**Professional links:** [GitHub profile](https://github.com/rogarzag) · [LinkedIn](https://www.linkedin.com/in/rodrigogarzamx/) · [Professional Website](https://rogarzag.github.io/)
+
+## Project Overview
+
 Business analysis of Walmart sales, department share, and sales per square meter using Google Sheets to support inventory, space, and budget decisions.
 
 ## Business question
@@ -41,3 +52,7 @@ Google Sheets · Data Integration · Pivot Tables · KPI Development · Business
 This project is part of my broader Business Analysis and Data Analytics portfolio.
 
 [Professional Website](https://rogarzag.github.io/) · [GitHub Profile](https://github.com/rogarzag) · [LinkedIn](https://www.linkedin.com/in/rodrigogarzamx/)
+
+## Conclusion
+
+Three departments accounted for 36.43% of total sales, indicating concentration in the department mix. The analysis supports reviewing department share and sales per square meter together when considering inventory, floor space, and budget allocation. The available summary does not establish that the highest-sales departments are also the most space-efficient.
