@@ -30,14 +30,13 @@ The work was completed in Google Sheets using data integration, pivot tables, KP
 
 ## Key finding
 
-Three departments accounted for **36.43% of total sales**, indicating a meaningful concentration of commercial performance within a limited part of the department mix.
+The three departments with the highest sales share were **Grocery & Essentials (15.23%)**, **Fresh Food (10.66%)**, and **Household & Paper Goods (10.54%)**. Together, they accounted for **36.43% of total sales**. The highest sales per square meter were recorded by **Grocery & Essentials ($652.81/m²)**, **Fresh Food ($456.76/m²)**, and **Household & Paper Goods ($451.89/m²)**. The lowest sales shares were **Garden & Outdoor Living (1.07%)** and **Office, School & Crafts (1.47%)**.
 
 ## Business recommendations
 
-- Prioritize high-performing departments when reviewing inventory allocation.
-- Use sales per square meter alongside total sales to evaluate space efficiency.
-- Review space and budget allocation by department rather than relying on sales volume alone.
-- Monitor department share over time to identify shifts in commercial performance.
+- Prioritize inventory, space allocation, and budget for the departments with the highest sales per square meter.
+- Strengthen the departments with the highest contribution to total sales.
+- For departments with lower sales shares, review whether promotion, assortment, or space allocation should be adjusted, or whether they should remain a lower priority due to limited demand.
 
 ## Tools
 
@@ -55,4 +54,4 @@ This project is part of my broader Business Analysis and Data Analytics portfoli
 
 ## Conclusion
 
-Three departments accounted for 36.43% of total sales, indicating concentration in the department mix. The analysis supports reviewing department share and sales per square meter together when considering inventory, floor space, and budget allocation. The available summary does not establish that the highest-sales departments are also the most space-efficient.
+The analysis compared department share of weekly sales and sales per square meter using Walmart's 2012 data. Grocery & Essentials ranked highest on both measures. The three leading departments accounted for 36.43% of total sales. The executive summary recommends prioritizing these departments and reviewing the lower-contributing categories.
