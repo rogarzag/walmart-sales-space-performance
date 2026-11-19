@@ -6,7 +6,7 @@
 **GitHub repository:** [walmart-sales-space-performance](https://github.com/rogarzag/walmart-sales-space-performance)  
 **Project focus:** Business Analysis · Google Sheets · Sales Performance · KPI Development · Space Efficiency  
 **Project context:** Data Analytics portfolio project  
-**Data / period covered:** Walmart weekly sales data from 2012  
+**Data / project coverage:** Walmart weekly sales data from 2012  
 **Professional links:** [GitHub profile](https://github.com/rogarzag) · [LinkedIn](https://www.linkedin.com/in/rodrigogarzamx/) · [Professional Website](https://rogarzag.github.io/)
 
 ## Project Overview
